@@ -1,0 +1,347 @@
+PL	05-126	Białystok	Podlasie	81	Białystok	2061	Białystok	206101	53.1232	23.1665	
+PL	85-000	Bydgoszcz	Kujawsko-Pomorskie	73	Bydgoszcz	0461	Bydgoszcz	046101	53.1352	17.998	
+PL	80-210	Gdańsk	Pomerania	82	Gdańsk	2261	Gdańsk	226101	54.3659	    18.6309 
+PL	66-400	Gorzów Wielkopolski	Lubusz	76	Gorzów Wielkopolski	0861	Gorzów Wielkopolski	086101	52.7538	    15.2562 
+PL	40-001	Katowice	Silesia	83	Katowice	2469	Katowice	246901	50.1928	    18.9712	
+PL	25-002	Kielce	Świętokrzyskie	84	Kielce	2661	Kielce	266101	50.8664	20.6335 
+PL	31-001	Kraków	Lesser Poland Voivodeship	77	Kraków	1261	Kraków	126101	50.057	19.9375	
+PL	20-001	Lublin	Lublin	75	Lublin	0663	Lublin	066301	51.2413	22.5499 
+PL	90-001	Łódź	Łódź Voivodeship	74	powiat Łódzki Wschodni	1061	Łódź	106101	51.7654	19.4719 
+PL	10-003	Olsztyn	Warmia-Masuria	85	Olsztyn	2862	Olsztyn	286201	53.7773	20.4797 
+PL	45-002	Opole	Opole Voivodeship	79	Opole	1661	Opole	166101	50.6824	17.9835 
+PL	60-009	Poznań	Greater Poland	86	Poznań	3064	Poznań	306401	52.3567	16.8572	
+PL	35-001	Rzeszów	Subcarpathian Voivodeship	80	Rzeszów	1863	Rzeszów	186301	50.0379	21.9932	
+PL	70-001	Szczecin	West Pomerania	87	Szczecin	3262	Szczecin	326201	53.3882	14.517  
+PL	87-100	Toruń	Kujawsko-Pomorskie	73	Toruń	0463	Toruń	046301	53.0211	18.623  
+PL	00-495	Warszawa	Mazovia	78	Warszawa	1465	Warsaw	146501	52.2317	21.0221	
+PL	51-001	Wrocław	Lower Silesia	72	Wrocław	0264	Wrocław	026401	51.1464	16.9855 
+PL	65-001	Zielona Góra	Lubusz	76	Zielona Góra	0862	Zielona Góra	086201	51.9427	15.5117	
+PL	87-700	Aleksandrów Kujawski	Kujawsko-Pomorskie	73	Powiat aleksandrowski	0401	Aleksandrów Kujawski	040101	52.8721	18.695  
+PL	16-300	Augustów	Podlasie	81	Powiat augustowski	2001	Augustów	200101	53.845	22.985  
+PL	11-200	Bartoszyce	Warmia-Masuria	85	Powiat bartoszycki	2801	Bartoszyce	280101	54.2528	20.8153	
+PL	97-400	Bełchatów	Łódź Voivodeship	74	Powiat bełchatowski	1001	Bełchatów	100101	51.3613	19.3724	
+PL	40-500	Będzin	Silesia	83	Powiat będziński	2401	Będzin	240101	50.3346	19.1243	
+PL	21-500	Biała Podlaska	Lublin	75	Biała Podlaska	0661	Biała Podlaska	066101	52.0276	23.1212 
+PL	26-800	Białobrzegi	Mazovia	78	Powiat białobrzeski	1401	Gmina Białobrzegi	140101	51.6467	20.9492 
+PL	78-200	Białogard	West Pomerania	87	Powiat białogardzki	3201	Białogard	320101	54.0065	15.9913	
+PL	33-300	Bielsko-Biała	Silesia	83	Bielsko-Biała	2461	Bielsko-Biała	246101	49.7953	19.0204	
+PL	17-100	Bielsk Podlaski	Podlasie	81	Powiat bielski	2003	Bielsk Podlaski	200301	52.766	23.1903	
+PL	43-155	Bieruń	Silesia	83	Powiat bieruńsko-lędziński	2414	Bieruń	241401	50.0743	19.173  
+PL	38-700	Ustrzyki Dolne	Subcarpathian Voivodeship	80	Powiat bieszczadzki	1801	Gmina Ustrzyki Dolne	180108	49.4293	22.5889	
+PL	23-400	Biłgoraj	Lublin	75	Powiat biłgorajski	0602	Biłgoraj	060201	50.5369	22.7185 
+PL	32-700	Bochnia	Lesser Poland Voivodeship	77	Powiat bocheński	1201	Bochnia	120101	49.97	20.4311	
+PL	59-700	Bolesławiec	Lower Silesia	72	Powiat bolesławiecki	0201	Bolesławiec	020101	51.2629	15.5601 
+PL	14-500	Braniewo	Warmia-Masuria	85	Powiat braniewski	2802	Braniewo	280201	54.3815	19.8213	
+PL	87-300	Brodnica	Kujawsko-Pomorskie	73	Powiat brodnicki	0402	Brodnica	040201	53.2546	19.4015	
+PL	32-800	Brzesko	Lesser Poland Voivodeship	77	Powiat brzeski	1202	Brzesko	120202	49.975	20.6078	
+PL	49-300	Brzeg	Opole Voivodeship	79	Powiat brzeski	1601	Brzeg	160101	50.8581	17.4686	
+PL	95-060	Brzeziny	Łódź Voivodeship	74	Powiat brzeziński	1021	Brzeziny	102101	51.8028	19.7502	
+PL	36-200	Brzozów	Subcarpathian Voivodeship	80	Powiat brzozowski	1802	Gmina Brzozów	180201	49.6942	22.0177	
+PL	28-100	Busko-Zdrój	Świętokrzyskie	84	Powiat buski	2601	Busko-Zdrój	260101	50.4701	20.7194	
+PL	41-900	Bytom	Silesia	83	Bytom	2462	Bytom	246201	50.3625	18.8845 
+PL	77-100	Bytów	Pomerania	82	Powiat bytowski	2201	Bytów	220102	54.1731	17.4945	
+PL	22-100	Chełm	Lublin	75	Chełm	0662	Chełm	066201	51.1354	23.4744 
+PL	86-200	Chełmno	Kujawsko-Pomorskie	73	Powiat chełmiński	0404	Chełmno	040401	53.3469	18.432  
+PL	64-800	Chodzież	Greater Poland	86	Powiat chodzieski	3001	Chodzież	300101	52.9913	16.9145	
+PL	89-600	Chojnice	Pomerania	82	Powiat chojnicki	2202	Chojnice	220201	53.6978	17.5564 
+PL	41-506	Chorzów	Silesia	83	Chorzów	2463	Chorzów	246301	50.2739	18.9424	
+PL	73-200	Choszczno	West Pomerania	87	Powiat choszczeński	3202	Gmina Choszczno	320202	53.1687	15.4188	
+PL	32-500	Chrzanów	Lesser Poland Voivodeship	77	Powiat chrzanowski	1203	Chrzanów	120303	50.1355	19.402	
+PL	06-400	Ciechanów	Mazovia	78	Powiat ciechanowski	1402	Ciechanów	140201	52.8765	20.6082	
+PL	43-400	Cieszyn	Silesia	83	Powiat cieszyński	2403	Cieszyn	240301	49.7538	18.6413	
+PL	67-700	Czarnków	Greater Poland	86	Powiat czarnkowsko-trzcianecki	3002	Czarnków	300201	52.9011	16.5656	
+PL	42-202	Częstochowa	Silesia	83	Częstochowa	2464	Częstochowa	246401	50.7711	19.1326	
+PL	77-300	Człuchów	Pomerania	82	Powiat człuchowski	2203	Człuchów	220301	53.669	17.3639 
+PL	41-300	Dąbrowa Górnicza	Silesia	83	Dąbrowa Górnicza	2465	Dąbrowa Górnicza	246501	50.3439	19.261  
+PL	33-200	Dąbrowa Tarnowska	Lesser Poland Voivodeship	77	Powiat dąbrowski	1204	Gmina Dąbrowa Tarnowska	120402	50.1734	20.9866	
+PL	39-210	Dębica	Subcarpathian Voivodeship	80	Powiat dębicki	1803	Dębica	180301	50.0469	21.4109	
+PL	78-500	Drawsko Pomorskie	West Pomerania	87	Powiat drawski	3203	Gmina Drawsko Pomorskie	320302	53.5324	15.8091	
+PL	13-200	Działdowo	Warmia-Masuria	85	Powiat działdowski	2803	Działdowo	280301	53.2359	20.182	
+PL	82-300	Elbląg	Warmia-Masuria	85	Elbląg	2861	Elbląg	286101	54.172	19.4195	
+PL	19-300	Ełk	Warmia-Masuria	85	Powiat ełcki	2805	Ełk	280501	53.8208	22.3622	
+PL	08-400	Garwolin	Mazovia	78	Powiat garwoliński	1403	Garwolin	140301	51.8936	21.6191	
+PL	83-000	Pruszcz Gdański	Pomerania	82	Gdańsk County	2204	Pruszcz Gdański	220401	54.2587	18.6518	
+PL	81-000	Gdynia	Pomerania	82	Gdynia	2262	Gdynia	226201	54.545	18.4606	
+PL	11-500	Giżycko	Warmia-Masuria	85	Powiat giżycki	2806	Giżycko	280601	54.0419	21.7697	
+PL	44-100	Gliwice	Silesia	83	Gliwice	2466	Gliwice	246601	50.3009	18.6651	
+PL	67-200	Głogów	Lower Silesia	72	Głogów County	0203	Głogów	020301	51.6557	16.089	
+PL	48-100	Głubczyce	Opole Voivodeship	79	Głubczyce County	1602	Głubczyce	160203	50.2013	17.8237	
+PL	62-200	Gniezno	Greater Poland	86	Powiat gnieźnieński	3003	Gniezno	300301	52.5274	17.6055	
+PL	72-100	Goleniów	West Pomerania	87	Powiat goleniowski	3204	Gmina Goleniów	320402	53.5616	14.8353	
+PL	87-400	Golub-Dobrzyń	Kujawsko-Pomorskie	73	Powiat golubsko-dobrzyński	0405	Golub-Dobrzyń	040501	53.1089	19.0553	
+PL	19-500	Gołdap	Warmia-Masuria	85	Powiat gołdapski	2818	Gmina Gołdap	281803	54.3099	22.3065	
+PL	38-300	Gorlice	Lesser Poland Voivodeship	77	Powiat gorlicki	1205	Gorlice	120501	49.658	21.1627	
+PL	09-500	Gostynin	Mazovia	78	Powiat gostyniński	1404	Gostynin	140401	52.4253	19.4651	
+PL	63-800	Gostyń	Greater Poland	86	Powiat gostyński	3004	Gostyń	300402	51.883	17.0087	
+PL	56-200	Góra	Lower Silesia	72	Góra County	0204	Góra	020401	51.6668	16.5372	
+PL	19-200	Grajewo	Podlasie	81	Powiat grajewski	2004	Grajewo	200401	53.6476	22.457	
+PL	05-825	Grodzisk Mazowiecki	Mazovia	78	Powiat grodziski	1405	Gmina Grodzisk Mazowiecki	140504	52.1046	20.6333	
+PL	62-065	Grodzisk Wielkopolski	Greater Poland	86	Powiat grodziski	3005	Grodzisk Wielkopolski	300502	52.2281	16.3621	
+PL	05-600	Grójec	Mazovia	78	Powiat grójecki	1406	Grójec	140605	51.8629	20.8711	
+PL	86-300	Grudziądz	Kujawsko-Pomorskie	73	Grudziądz	0462	Grudziądz	046201	53.4817	18.7693	
+PL	72-300	Gryfice	West Pomerania	87	Powiat gryficki	3205	Gryfice	320502	53.9163	15.1977	
+PL	74-100	Gryfino	West Pomerania	87	Powiat gryfiński	3206	Gmina Gryfino	320604	53.2529	14.495	
+PL	17-200	Hajnówka	Podlasie	81	Powiat hajnowski	2005	Hajnówka	200501	52.7393	23.58	
+PL	22-500	Hrubieszów	Lublin	75	Powiat hrubieszowski	0604	Hrubieszów	060401	50.8076	23.8901	
+PL	14-200	Iława	Warmia-Masuria	85	Powiat iławski	2807	Iława	280701	53.5952	19.5679	
+PL	88-100	Inowrocław	Kujawsko-Pomorskie	73	Powiat inowrocławski	0407	Inowrocław	040701	52.7869	18.2608	
+PL	23-300	Janów Lubelski	Lublin	75	Powiat janowski	0605	Gmina Janów Lubelski	060505	50.706	22.4147	
+PL	63-200	Jarocin	Greater Poland	86	Powiat jarociński	3006	Jarocin	300602	51.965	17.5032	
+PL	37-500	Jarosław	Subcarpathian Voivodeship	80	Powiat jarosławski	1804	Jarosław	180401	50.0209	22.677	
+PL	38-200	Jasło	Subcarpathian Voivodeship	80	Powiat jasielski	1805	Jasło	180501	49.7452	21.4712	
+PL	44-330	Jastrzębie-Zdrój	Silesia	83	Jastrzębie-Zdrój	2467	Jastrzębie-Zdrój	246701	49.9484	18.5719 
+PL	59-400	Jawor	Lower Silesia	72	Jawor County	0205	Jawor	020501	51.054	16.1888	
+PL	43-600	Jaworzno	Silesia	83	Jaworzno	2468	Jaworzno	246801	50.2046	19.2899	
+PL	58-500	Jelenia Góra	Lower Silesia	72	Jelenia Góra	0261	Jelenia Góra	026101	50.8933	15.7418	
+PL	28-300	Jędrzejów	Świętokrzyskie	84	Powiat jędrzejowski	2602	Jędrzejów	260202	50.6402	20.2968	
+PL	62-800	Kalisz	Greater Poland	86	Kalisz	3061	Kalisz	306101	51.7501	18.0872	
+PL	58-400	Kamienna Góra	Lower Silesia	72	Kamienna Góra County	0207	Kamienna Góra	020701	50.7805	16.0325	
+PL	72-400	Kamień Pomorski	West Pomerania	87	Powiat kamieński	3207	Kamień Pomorski	320703	53.9695	14.7771	
+PL	83-300	Kartuzy	Pomerania	82	Powiat kartuski	2205	Kartuzy	220502	54.3331	18.1935	
+PL	28-500	Kazimierza Wielka	Świętokrzyskie	84	Powiat kazimierski	2603	Gmina Kazimierza Wielka	260303	50.2668	20.489  
+PL	47-220	Kędzierzyn-Koźle	Opole Voivodeship	79	Powiat kędzierzyńsko-kozielski	1603	Kędzierzyn-Koźle	160301	50.349	18.2132	
+PL	63-600	Kępno	Greater Poland	86	Powiat kępiński	3008	Gmina Kępno	300803	51.2823	17.9869	
+PL	11-400	Kętrzyn	Warmia-Masuria	85	Powiat kętrzyński	2808	Kętrzyn	280801	54.0788	21.3725	
+PL	46-201	Kluczbork	Opole Voivodeship	79	Powiat kluczborski	1604	Gmina Kluczbork	160402	50.9615	18.219	
+PL	42-100	Kłobuck	Silesia	83	Powiat kłobucki	2406	Gmina Kłobuck	240601	50.9056	18.9389 
+PL	57-300	Kłodzko	Lower Silesia	72	Kłodzko County	0208	Kłodzko	020802	50.4393	16.6553	
+PL	36-100	Kolbuszowa	Subcarpathian Voivodeship	80	Powiat kolbuszowski	1806	Kolbuszowa	180602	50.241	21.7667	
+PL	18-500	Kolno	Podlasie	81	Powiat kolneński	2006	Kolno	200601	53.4088	21.9327	
+PL	62-600	Koło	Greater Poland	86	Powiat kolski	3009	Koło	300901	52.1978	18.6379	
+PL	78-100	Kołobrzeg	West Pomerania	87	Powiat kołobrzeski	3208	Kołobrzeg	320801	54.1707	15.5654	
+PL	26-200	Końskie	Świętokrzyskie	84	Powiat konecki	2605	Końskie	260503	51.1871	20.4072	
+PL	62-500	Konin	Greater Poland	86	Konin	3062	Konin	306201	52.2277	18.2563	
+PL	75-620	Koszalin	West Pomerania	87	Koszalin	3261	Koszalin	326101	54.188	16.1913 
+PL	64-000	Kościan	Greater Poland	86	Powiat kościański	3011	Kościan	301101	52.0847	16.6408	
+PL	83-400	Kościerzyna	Pomerania	82	Powiat kościerski	2206	Kościerzyna	220601	54.123	17.9769	
+PL	26-901	Kozienice	Mazovia	78	Powiat kozienicki	1407	Gmina Kozienice	140705	51.5911	21.5387	
+PL	47-303	Krapkowice	Opole Voivodeship	79	Powiat krapkowicki	1605	Gmina Krapkowice	160502	50.4833	17.9791	
+PL	22-300	Krasnystaw	Lublin	75	Powiat krasnostawski	0606	Krasnystaw	060601	50.983	23.1688	
+PL	23-210	Kraśnik	Lublin	75	Powiat kraśnicki	0607	Kraśnik	060701	50.9618	22.1565	
+PL	38-400	Krosno	Subcarpathian Voivodeship	80	Krosno	1861	Krosno	186101	49.6908	21.7623	
+PL	66-600	Krosno Odrzańskie	Lubusz	76	Powiat krośnieński	0802	Gmina Krosno Odrzańskie	080206	52.0542	15.0984	
+PL	63-700	Krotoszyn	Greater Poland	86	Powiat krotoszyński	3012	Gmina Krotoszyn	301204	51.6978	17.4357	
+PL	99-300	Kutno	Łódź Voivodeship	74	Powiat kutnowski	1002	Kutno	100201	52.2272	19.3628	
+PL	82-500	Kwidzyn	Pomerania	82	Powiat kwidzyński	2207	Kwidzyn	220701	53.7326	18.936	
+PL	05-119	Legionowo	Mazovia	78	Powiat legionowski	1408	Legionowo	140801	52.412	20.9399	
+PL	59-200	Legnica	Lower Silesia	72	Legnica	0262	Legnica	026201	51.2123	16.1634 
+PL	38-600	Lesko	Subcarpathian Voivodeship	80	Powiat leski	1821	Gmina Lesko	182103	49.4737	22.3282	
+PL	64-100	Leszno	Greater Poland	86	Leszno	3063	Leszno	306301	51.844	16.5763	
+PL	37-300	Leżajsk	Subcarpathian Voivodeship	80	Powiat leżajski	1808	Leżajsk	180801	50.2614	22.4182 
+PL	84-300	Lębork	Pomerania	82	Powiat lęborski	2208	Lębork	220801	54.5381	17.7425	
+PL	11-100	Lidzbark Warmiński	Warmia-Masuria	85	Powiat lidzbarski	2809	Lidzbark Warmiński	280901	54.126	20.5791	
+PL	34-600	Limanowa	Lesser Poland Voivodeship	77	Powiat limanowski	1207	Limanowa	120701	49.7107	20.4177	
+PL	87-600	Lipno	Kujawsko-Pomorskie	73	Powiat lipnowski	0408	Lipno	040801	52.8431	19.1796	
+PL	27-300	Lipsko	Mazovia	78	Powiat lipski	1409	Gmina Lipsko	140903	51.1575	21.651	
+PL	37-600	Lubaczów	Subcarpathian Voivodeship	80	Powiat lubaczowski	1809	Lubaczów	180901	50.1579	23.1252	
+PL	59-800	Lubań	Lower Silesia	72	Lubań County	0210	Lubań	021001	51.1187	15.2865	
+PL	21-100	Lubartów	Lublin	75	Powiat lubartowski	0608	Lubartów	060801	51.4631	22.6064	
+PL	59-300	Lubin	Lower Silesia	72	Lubin County	0211	Lubin	021101	51.3966	16.1925	
+PL	42-700	Lubliniec	Silesia	83	Powiat lubliniecki	2407	Lubliniec	240701	50.6693	18.684	
+PL	59-600	Lwówek Śląski	Lower Silesia	72	Lwówek Śląski County	0212	Lwówek Śląski	021203	51.1106	15.5869	
+PL	37-100	Łańcut	Subcarpathian Voivodeship	80	Powiat łańcucki	1810	Łańcut	181001	50.0714	22.231  
+PL	98-100	Łask	Łódź Voivodeship	74	Powiat łaski	1003	Gmina Łask	100302	51.6011	19.1641	
+PL	99-100	Łęczyca	Łódź Voivodeship	74	Powiat łęczycki	1004	Łęczyca	100401	52.055	19.1965	
+PL	21-010	Łęczna	Lublin	75	Powiat łęczyński	0610	Gmina Łęczna	061003	51.3013	22.8874	
+PL	73-150	Łobez	West Pomerania	87	Powiat łobeski	3218	Łobez	321802	53.6378	15.6188	
+PL	18-400	Łomża	Podlasie	81	Łomża	2062	Łomża	206201	53.1741	22.0622	
+PL	08-200	Łosice	Mazovia	78	Powiat łosicki	1410	Gmina Łosice	141002	52.2134	22.7126	
+PL	99-400	Łowicz	Łódź Voivodeship	74	powiat Łowicki	1005	gmina Miasto Łowicz	100501	52.106	19.9384	
+PL	95-040	Koluszki	Łódź Voivodeship	74	Powiat łódzki wschodni	1006	Koluszki	100607	51.7434	19.8168	
+PL	95-020	Andrespol	Łódź Voivodeship	74	Powiat łódzki wschodni	1006	gmina Andrespol	100602	51.7263	19.6362	
+PL	95-080	Tuszyn	Łódź Voivodeship	74	Powiat łódzki wschodni	1006	Tuszyn	100611	51.6081	19.5286	
+PL	21-400	Łuków	Lublin	75	Powiat łukowski	0611	Łuków	061101	51.9306	22.3773	
+PL	06-200	Maków Mazowiecki	Mazovia	78	Powiat makowski	1411	Maków Mazowiecki	141101	52.8625	21.0992	
+PL	82-200	Malbork	Pomerania	82	Powiat malborski	2209	Malbork	220901	54.0299	19.0353	
+PL	32-200	Miechów	Lesser Poland Voivodeship	77	Powiat miechowski	1208	Gmina Miechów	120805	50.3575	20.0334	
+PL	39-301	Mielec	Subcarpathian Voivodeship	80	Powiat mielecki	1811	Mielec	181101	50.2941	21.4372	
+PL	64-400	Międzychód	Greater Poland	86	Powiat międzychodzki	3014	Gmina Międzychód	301403	52.6001	15.8955	
+PL	06-630	Międzyrzecz	Lubusz	76	Powiat międzyrzecki	0803	Międzyrzecz	080302	52.4421	15.5837	
+PL	43-190	Mikołów	Silesia	83	Powiat mikołowski	2408	Mikołów	240802	50.1822	18.8796	
+PL	56-300	Milicz	Lower Silesia	72	Milicz County	0213	Milicz	021303	51.5235	17.2754	
+PL	05-300	Mińsk Mazowiecki	Mazovia	78	Powiat miński	1412	Mińsk Mazowiecki	141201	52.1809	21.5616	
+PL	06-500	Mława	Mazovia	78	Powiat mławski	1413	Mława	141301	53.119	20.3731	
+PL	88-300	Mogilno	Kujawsko-Pomorskie	73	Powiat mogileński	0409	Mogilno	040903	52.6622	17.9422	
+PL	19-100	Mońki	Podlasie	81	Powiat moniecki	2008	Gmina Mońki	200806	53.406	22.8004	
+PL	11-700	Mrągowo	Warmia-Masuria	85	Powiat mrągowski	2810	Mrągowo	281001	53.8671	21.301	
+PL	41-400	Mysłowice	Silesia	83	Mysłowice	2470	Mysłowice	247001	50.2104	19.1361	
+PL	42-300	Myszków	Silesia	83	Powiat myszkowski	2409	Myszków	240901	50.5711	19.331	
+PL	32-400	Myślenice	Lesser Poland Voivodeship	77	Powiat myślenicki	1209	Myślenice	120903	49.8327	19.9415	
+PL	74-300	Myślibórz	West Pomerania	87	Powiat myśliborski	3210	Myślibórz	321004	52.9227	14.8699	
+PL	89-100	Nakło Nad Notecią	Kujawsko-Pomorskie	73	Powiat nakielski	0410	Gmina Nakło nad Notecią	041003	53.1412	17.5949	
+PL	46-100	Namysłów	Opole Voivodeship	79	Powiat namysłowski	1606	Namysłów	160602	51.0755	17.7197	
+PL	13-100	Nidzica	Warmia-Masuria	85	Powiat nidzicki	2811	Gmina Nidzica	281104	53.3663	20.4237	
+PL	37-400	Nisko	Subcarpathian Voivodeship	80	Powiat niżański	1812	Nisko	181205	50.517	22.1346	
+PL	82-100	Nowy Dwór Gdański	Pomerania	82	Powiat nowodworski	2210	Gmina Nowy Dwór Gdański	221002	54.2132	19.1178	
+PL	05-100	Nowy Dwór Mazowiecki	Mazovia	78	Powiat nowodworski	1414	Nowy Dwór Mazowiecki	141401	52.4325	20.718	
+PL	13-300	Nowe Miasto Lubawskie	Warmia-Masuria	85	Powiat nowomiejski	2812	Nowe Miasto Lubawskie	281201	53.4232	19.5936	
+PL	33-310	Nowy Sącz	Lesser Poland Voivodeship	77	Powiat nowosądecki	1262	Nowy Sącz	126201	49.611	20.7037 
+PL	67-100	Nowa Sól	Lubusz	76	Powiat nowosolski	0804	Nowa Sól	080401	51.8031	15.7096	
+PL	34-400	Nowy Targ	Lesser Poland Voivodeship	77	Powiat nowotarski	1211	Nowy Targ	121101	49.4866	20.0292	
+PL	64-300	Nowy Tomyśl	Greater Poland	86	Powiat nowotomyski	3015	Gmina Nowy Tomyśl	301504	52.3165	16.1346	
+PL	48-300	Nysa	Opole Voivodeship	79	Powiat nyski	1607	Nysa	160705	50.4688	17.3359	
+PL	64-600	Oborniki	Greater Poland	86	Powiat obornicki	3016	Gmina Oborniki	301601	52.6515	16.8086	
+PL	19-400	Olecko	Warmia-Masuria	85	Powiat olecki	2813	Gmina Olecko	281304	54.0348	22.5058	
+PL	46-300	Olesno	Opole Voivodeship	79	Powiat oleski	1608	Gmina Olesno	160803	50.8767	18.4198	
+PL	56-400	Oleśnica	Lower Silesia	72	Oleśnica County	0214	Oleśnica	021401	51.2072	17.3824	
+PL	32-300	Olkusz	Lesser Poland Voivodeship	77	Powiat olkuski	1212	Olkusz	121205	50.2818	19.5634	
+PL	55-200	Oława	Lower Silesia	72	Oława County	0215	Oława	021501	50.9426	17.2913	
+PL	27-500	Opatów	Świętokrzyskie	84	Powiat opatowski	2606	Gmina Opatów	260604	50.8019	21.4232 
+PL	26-300	Opoczno	Łódź Voivodeship	74	Powiat opoczyński	1007	Gmina Opoczno	100704	51.3785	20.2796	
+PL	24-300	Opole Lubelskie	Lublin	75	Powiat opolski	0612	Opole Lubelskie	061205	51.1471	21.9681	
+PL	07-401	Ostrołęka	Mazovia	78	Ostrołęka	1461	Ostrołęka	146101	53.0977	21.6134	
+PL	27-400	Ostrowiec Świętokrzyski	Świętokrzyskie	84	Powiat ostrowiecki	2607	Ostrowiec Świętokrzyski	260701	50.9465	21.3866	
+PL	63-400	Ostrów Wielkopolski	Greater Poland	86	Powiat ostrowski	3017	Ostrów Wielkopolski	301701	51.6468	17.8108	
+PL	07-300	Ostrów Mazowiecka	Mazovia	78	Powiat ostrowski	1416	Ostrów Mazowiecka	141601	52.8023	21.8884	
+PL	14-100	Ostróda	Warmia-Masuria	85	Powiat ostródzki	2815	Ostróda	281501	53.7047	19.9634	
+PL	63-500	Ostrzeszów	Greater Poland	86	Powiat ostrzeszowski	3018	Gmina Ostrzeszów	301807	51.4277	17.9271	
+PL	32-600	Oświęcim	Lesser Poland Voivodeship	77	Powiat oświęcimski	1213	Oświęcim	121301	50.0354	19.2343	
+PL	05-400	Otwock	Mazovia	78	Powiat otwocki	1417	Otwock	141702	52.1133	21.2741	
+PL	95-200	Pabianice	Łódź Voivodeship	74	Powiat pabianicki	1008	Pabianice	100802	51.66	19.3532	
+PL	98-330	Pajęczno	Łódź Voivodeship	74	Powiat pajęczański	1009	Gmina Pajęczno	100904	51.1443	18.9981	
+PL	21-200	Parczew	Lublin	75	Powiat parczewski	0613	Gmina Parczew	061304	51.6375	22.9022	
+PL	05-500	Piaseczno	Mazovia	78	Powiat piaseczyński	1418	Piaseczno	141804	52.0698	21.0164	
+PL	41-940	Piekary Śląskie	Silesia	83	Piekary Śląskie	2471	Piekary Śląskie	247101	50.3827	18.9427	
+PL	64-920	Piła	Greater Poland	86	Powiat pilski	3019	Piła	301901	53.1501	16.746	
+PL	28-400	Pińczów	Świętokrzyskie	84	Powiat pińczowski	2608	Pińczów	260804	50.5197	20.5308	
+PL	97-300	Piotrków Trybunalski	Łódź Voivodeship	74	Piotrków Trybunalski	1062	Piotrków Trybunalski	106201	51.411	19.6895	
+PL	12-200	Pisz	Warmia-Masuria	85	Powiat piski	2816	Pisz	281603	53.628	21.816	
+PL	63-300	Pleszew	Greater Poland	86	Powiat pleszewski	3020	Pleszew	302006	51.8952	17.7821	
+PL	09-400	Płock	Mazovia	78	Płock	1462	Płock	146201	52.5554	19.6778	
+PL	09-101	Płońsk	Mazovia	78	Powiat płoński	1420	Płońsk	142001	52.6244	20.3833	
+PL	99-200	Poddębice	Łódź Voivodeship	74	Powiat poddębicki	1011	Poddębice	101103	51.8944	18.9572	
+PL	72-009	Police	West Pomerania	87	Powiat policki	3211	Police	321104	53.5393	14.5393	
+PL	59-100	Polkowice	Lower Silesia	72	Polkowice County	0216	Polkowice	021604	51.5024	16.0761	
+PL	32-100	Proszowice	Lesser Poland Voivodeship	77	Powiat proszowicki	1214	Proszowice	121405	50.1909	20.2924	
+PL	48-200	Prudnik	Opole Voivodeship	79	Powiat prudnicki	1610	Prudnik	161004	50.32	17.5784	
+PL	05-800	Pruszków	Mazovia	78	Powiat pruszkowski	1421	Pruszków	142102	52.1695	20.8076	
+PL	06-300	Przasnysz	Mazovia	78	Powiat przasnyski	1422	Przasnysz	142201	53.0193	20.8892	
+PL	37-700	Przemyśl	Subcarpathian Voivodeship	80	Przemyśl	1862	Przemyśl	186201	49.7864	22.7715	
+PL	37-200	Przeworsk	Subcarpathian Voivodeship	80	Powiat przeworski	1814	Przeworsk	181401	50.0592	22.4955	
+PL	26-400	Przysucha	Mazovia	78	Powiat przysuski	1423	Gmina Przysucha	142306	51.355	20.6258	
+PL	43-200	Pszczyna	Silesia	83	Powiat pszczyński	2410	Pszczyna	241005	49.9816	18.9428	
+PL	84-100	Puck	Pomerania	82	Powiat pucki	2211	Puck	221103	54.7152	18.4053	
+PL	24-100	Puławy	Lublin	75	Powiat puławski	0614	Puławy	061401	51.4114	21.977	
+PL	06-100	Pułtusk	Mazovia	78	Powiat pułtuski	1424	Gmina Pułtusk	142404	52.7024	21.0906	
+PL	74-200	Pyrzyce	West Pomerania	87	Powiat pyrzycki	3212	Gmina Pyrzyce	321205	53.1432	14.893	
+PL	47-400	Racibórz	Silesia	83	Powiat raciborski	2411	Racibórz	241101	50.0886	18.2217	
+PL	26-600	Radom	Mazovia	78	Radom	1463	Radom	146301	51.3996	21.1523	
+PL	97-500	Radomsko	Łódź Voivodeship	74	Powiat radomszczański	1012	Radomsko	101201	51.0735	19.4376	
+PL	88-200	Radziejów	Kujawsko-Pomorskie	73	Powiat radziejowski	0411	Radziejów	041101	52.6227	18.5277	
+PL	21-300	Radzyń Podlaski	Lublin	75	Powiat radzyński	0615	Radzyń Podlaski	061501	51.7799	22.6223	
+PL	63-900	Rawicz	Greater Poland	86	Powiat rawicki	3022	Rawicz	302205	51.6135	16.8637	
+PL	96-200	Rawa Mazowiecka	Łódź Voivodeship	74	Powiat rawski	1013	Rawa Mazowiecka	101301	51.7611	20.2485	
+PL	39-100	Ropczyce	Subcarpathian Voivodeship	80	Powiat ropczycko-sędziszowski	1815	Ropczyce	181503	50.0562	21.6108	
+PL	41-700	Ruda Śląska	Silesia	83	Ruda Śląska	2472	Ruda Śląska	247201	50.319	18.8584	
+PL	44-200	Rybnik	Silesia	83	Rybnik	2473	Rybnik	247301	50.0896	18.5432	
+PL	08-500	Ryki	Lublin	75	Powiat rycki	0616	Gmina Ryki	061604	51.6221	21.9285	
+PL	87-500	Rypin	Kujawsko-Pomorskie	73	Powiat rypiński	0412	Rypin	041201	53.0661	19.4156	
+PL	27-600	Sandomierz	Świętokrzyskie	84	Powiat sandomierski	2609	Sandomierz	260901	50.6832	21.746	
+PL	38-500	Sanok	Subcarpathian Voivodeship	80	Powiat sanocki	1817	Sanok	181701	49.559	22.2013	
+PL	16-500	Sejny	Podlasie	81	Powiat sejneński	2009	Sejny	200901	54.1073	23.3484	
+PL	89-400	Sępólno Krajeńskie	Kujawsko-Pomorskie	73	Powiat sępoleński	0413	Gmina Sępólno Krajeńskie	041302	53.4539	17.5286	
+PL	08-110	Siedlce	Mazovia	78	Siedlce	1464	Siedlce	146401	52.1657	22.2734	
+PL	41-100	Siemianowice Śląskie	Silesia	83	Siemianowice Śląskie	2474	Siemianowice Śląskie	247401	50.303	19.0303	
+PL	17-300	Siemiatycze	Podlasie	81	Powiat siemiatycki	2010	Siemiatycze	201001	52.4276	22.8699	
+PL	98-200	Sieradz	Łódź Voivodeship	74	Powiat sieradzki	1014	Sieradz	101401	51.591	18.7337	
+PL	09-201	Sierpc	Mazovia	78	Powiat sierpecki	1427	Sierpc	142701	52.8544	19.6793	
+PL	26-110	Skarżysko-Kamienna	Świętokrzyskie	84	Powiat skarżyski	2610	Skarżysko-Kamienna	261001	51.1156	20.8669	
+PL	96-100	Skierniewice	Łódź Voivodeship	74	Skierniewice	1063	Skierniewice	106301	51.96	20.1522	
+PL	76-100	Sławno	West Pomerania	87	Powiat sławieński	3213	Sławno	321302	54.3586	16.6773	
+PL	69-100	Słubice	Lubusz	76	Powiat słubicki	0805	Słubice	080505	52.3554	14.572  
+PL	62-400	Słupca	Greater Poland	86	Powiat słupecki	3023	Słupca	302301	52.2916	17.8736	
+PL	76-200	Słupsk	Pomerania	82	Słupsk	2263	Słupsk	226301	54.4646	17.0297 
+PL	96-500	Sochaczew	Mazovia	78	Powiat sochaczewski	1428	Sochaczew	142801	52.233	20.2458	
+PL	08-300	Sokołów Podlaski	Mazovia	78	Powiat sokołowski	1429	Sokołów Podlaski	142901	52.4072	22.2426	
+PL	16-100	Sokółka	Podlasie	81	Powiat sokólski	2011	Sokółka	201108	53.4142	23.508	
+PL	81-567	Sopot	Pomerania	82	Sopot	2264	Sopot	226401	54.4427	18.5607	
+PL	41-213	Sosnowiec	Silesia	83	Sosnowiec	2475	Sosnowiec	247501	50.2797	19.1587	
+PL	37-450	Stalowa Wola	Subcarpathian Voivodeship	80	Powiat stalowowolski	1818	Stalowa Wola	181801	50.5757	22.0556	
+PL	27-200	Starachowice	Świętokrzyskie	84	Powiat starachowicki	2611	Starachowice	261101	51.0418	21.0721	
+PL	73-110	Stargard	West Pomerania	87	Powiat stargardzki	3214	Stargard	321401	53.3366	15.0321	
+PL	83-200	Starogard Gdański	Pomerania	82	Powiat starogardzki	2213	Starogard Gdański	221303	53.9653	18.5193	
+PL	28-200	Staszów	Świętokrzyskie	84	Staszów County	2612	Staszów	261207	50.5631	21.1729	
+PL	47-100	Strzelce Opolskie	Opole Voivodeship	79	Powiat strzelecki	1611	Gmina Strzelce Opolskie	161105	50.5132	18.2966	
+PL	66-500	Strzelce Krajeńskie	Lubusz	76	Powiat strzelecko-drezdenecki	0806	Gmina Strzelce Krajeńskie	080604	52.8782	15.5332	
+PL	57-100	Strzelin	Lower Silesia	72	Strzelin County	0217	Strzelin	021704	50.7817	17.0716	
+PL	38-100	Strzyżów	Subcarpathian Voivodeship	80	Powiat strzyżowski	1819	Gmina Strzyżów	181904	49.8703	21.7895	
+PL	69-200	Sulęcin	Lubusz	76	Powiat sulęciński	0807	Sulęcin	080704	52.4428	15.1168	
+PL	34-200	Sucha Beskidzka	Lesser Poland Voivodeship	77	Powiat suski	1215	Sucha Beskidzka	121502	49.7383	19.5821	
+PL	16-400	Suwałki	Podlasie	81	Suwałki	2063	Suwałki	206301	54.099	22.9296	
+PL	64-500	Szamotuły	Greater Poland	86	Powiat szamotulski	3024	Gmina Szamotuły	302407	52.6144	16.5798	
+PL	78-400	Szczecinek	West Pomerania	87	Powiat szczecinecki	3215	Szczecinek	321501	53.7064	16.6901	
+PL	12-100	Szczytno	Warmia-Masuria	85	Powiat szczycieński	2817	Szczytno	281701	53.5615	20.9917	
+PL	82-400	Sztum	Pomerania	82	Powiat sztumski	2216	Sztum	221605	53.9228	19.0345	
+PL	26-500	Szydłowiec	Mazovia	78	Powiat szydłowiecki	1430	Gmina Szydłowiec	143005	51.2236	20.8553	
+PL	63-000	Środa Wielkopolska	Greater Poland	86	Powiat średzki	3025	Środa Wielkopolska	302504	52.2304	17.2746	
+PL	55-300	Środa Śląska	Lower Silesia	72	Środa Śląska County	0218	Środa Śląska	021804	51.1649	16.5938	
+PL	63-100	Śrem	Greater Poland	86	Powiat śremski	3026	Śrem	302604	52.0876	17.0143	
+PL	21-047	Świdnik	Lublin	75	Powiat świdnicki	0617	Świdnik	061701	51.2144	22.6939	
+PL	58-100	Świdnica	Lower Silesia	72	Świdnica County	0219	Świdnica	021901	50.8418	16.4871	
+PL	78-300	Świdwin	West Pomerania	87	Powiat świdwiński	3216	Świdwin	321601	53.7735	15.7754	
+PL	66-200	Świebodzin	Lubusz	76	Powiat świebodziński	0808	Świebodzin	080805	52.2462	15.5312	
+PL	86-100	Świecie	Kujawsko-Pomorskie	73	Powiat świecki	0414	Świecie	041409	53.4082	18.4324	
+PL	41-600	Świętochłowice	Silesia	83	Świętochłowice	2476	Świętochłowice	247601	50.2893	18.9187	
+PL	72-600	Świnoujście	West Pomerania	87	Świnoujście	3263	Świnoujście	326301	53.9032	14.2572 
+PL	39-400	Tarnobrzeg	Subcarpathian Voivodeship	80	Tarnobrzeg	1864	Tarnobrzeg	186401	50.5868	21.7027 
+PL	42-600	Tarnowskie Góry	Silesia	83	Powiat tarnogórski	2413	Tarnowskie Góry	241304	50.4473	18.8404	
+PL	33-104	Tarnów	Lesser Poland Voivodeship	77	Powiat tarnowski	1263	Tarnów	126301	50.0162	20.9744	
+PL	34-500	Zakopane	Lesser Poland Voivodeship	77	Powiat tatrzański	1217	Zakopane	121701	49.2961	19.9641	
+PL	83-110	Tczew	Pomerania	82	Powiat tczewski	2214	Tczew	221401	54.0876	18.7857	
+PL	97-200	Tomaszów Mazowiecki	Łódź Voivodeship	74	Powiat tomaszowski	1016	Tomaszów Mazowiecki	101601	51.5279	20.0216	
+PL	22-600	Tomaszów Lubelski	Lublin	75	Powiat tomaszowski	0618	Tomaszów Lubelski	061801	50.4472	23.4159
+PL	55-100	Trzebnica	Lower Silesia	72	Trzebnica County	0220	Trzebnica	022003	51.3079	17.0619	
+PL	89-500	Tuchola	Kujawsko-Pomorskie	73	Powiat tucholski	0416	Tuchola	041606	53.5818	17.8694	
+PL	62-700	Turek	Greater Poland	86	Powiat turecki	3027	Turek	302701	52.0157	18.5033	
+PL	43-100	Tychy	Silesia	83	Tychy	2477	Tychy	247701	50.1266	18.9845	
+PL	34-100	Wadowice	Lesser Poland Voivodeship	77	Powiat wadowicki	1218	Wadowice	121809	49.8808	19.4944	
+PL	58-300	Wałbrzych	Lower Silesia	72	Wałbrzych	0265	Wałbrzych	026501	50.7647	16.2796	
+PL	78-600	Wałcz	West Pomerania	87	Powiat wałecki	3217	Wałcz	321701	53.2755	16.4643	
+PL	05-870	Błonie	Mazovia	78	Warsaw West County	1432	Błonie	143201	52.1945	20.6165	
+PL	05-092	Łomianki	Mazovia	78	Warsaw West County	1432	Gmina Łomianki	143205	52.3354	20.8878	
+PL	05-850	Ożarów Mazowiecki	Mazovia	78	Warsaw West County	1432	Gmina Ożarów Mazowiecki	143206	52.2127	20.7959	
+PL	87-200	Wąbrzeźno	Kujawsko-Pomorskie	73	Powiat wąbrzeski	0417	Wąbrzeźno	041701	53.2807	18.9488	
+PL	62-100	Wągrowiec	Greater Poland	86	Powiat wągrowiecki	3028	Wągrowiec	302801	52.8094	17.2057	
+PL	84-200	Wejherowo	Pomerania	82	Powiat wejherowski	2215	Wejherowo	221503	54.605	18.2456	
+PL	11-600	Węgorzewo	Warmia-Masuria	85	Powiat węgorzewski	2819	Gmina Węgorzewo	281903	54.2093	21.7464	
+PL	07-100	Węgrów	Mazovia	78	Powiat węgrowski	1433	Węgrów	143301	52.402	22.0216	
+PL	32-020	Wieliczka	Lesser Poland Voivodeship	77	Powiat wielicki	1219	Wieliczka	121905	49.9889	20.0528	
+PL	98-300	Wieluń	Łódź Voivodeship	74	Powiat wieluński	1017	Gmina Wieluń	101709	51.2202	18.5703	
+PL	98-400	Wieruszów	Łódź Voivodeship	74	Powiat wieruszowski	1018	Gmina Wieruszów	101807	51.2963	18.1545	
+PL	87-800	Włocławek	Kujawsko-Pomorskie	73	Włocławek	0464	Włocławek	046401	52.6451	19.056	
+PL	22-200	Włodawa	Lublin	75	Powiat włodawski	0619	Włodawa	061901	51.5459	23.5493	
+PL	29-100	Włoszczowa	Świętokrzyskie	84	Powiat włoszczowski	2613	Włoszczowa	261306	50.8523	19.9739	
+PL	44-300	Wodzisław Śląski	Silesia	83	Wodzisław County	2415	Wodzisław Śląski	241504	50.0058	18.452	
+PL	64-200	Wolsztyn	Greater Poland	86	Powiat wolsztyński	3029	Wolsztyn	302903	52.1144	16.1174	
+PL	05-200	Wołomin	Mazovia	78	Powiat wołomiński	1434	Gmina Wołomin	143412	52.3455	21.2426	
+PL	56-100	Wołów	Lower Silesia	72	Wołów County	0222	Wołów	022203	51.3355	16.6417	
+PL	62-300	Września	Greater Poland	86	Powiat wrzesiński	3030	Gmina Września	303005	52.3272	17.5695	
+PL	67-400	Wschowa	Lubusz	76	Powiat wschowski	0812	Wschowa	081203	51.808	16.3149	
+PL	18-200	Wysokie Mazowieckie	Podlasie	81	Powiat wysokomazowiecki	2013	Wysokie Mazowieckie	201301	52.9178	22.5133	
+PL	07-200	Wyszków	Mazovia	78	Powiat wyszkowski	1435	Wyszków	143505	52.5974	21.4477	
+PL	41-800	Zabrze	Silesia	83	Zabrze	2478	Zabrze	247801	50.3057	18.7777	
+PL	18-300	Zambrów	Podlasie	81	Powiat zambrowski	2014	Zambrów	201401	52.9821	22.2442	
+PL	22-400	Zamość	Lublin	75	Zamość	0664	Zamość	066401	50.7211	23.2574 
+PL	42-400	Zawiercie	Silesia	83	Powiat zawierciański	2416	Zawiercie	241602	50.4959	19.4381	
+PL	57-200	Ząbkowice Śląskie	Lower Silesia	72	Ząbkowice Śląskie County	0224	Gmina Ząbkowice Śląskie	022405	50.591	16.8141	
+PL	98-220	Zduńska Wola	Łódź Voivodeship	74	Zduńska Wola County	1019	Zduńska Wola	101901	51.5934	18.9504	
+PL	95-102	Zgierz	Łódź Voivodeship	74	Powiat zgierski	1020	Zgierz	102003	51.863	19.3923	
+PL	59-900	Zgorzelec	Lower Silesia	72	Zgorzelec County	0225	Zgorzelec	022502	51.1453	15.0139	
+PL	65-001	Zielona Góra	Lubusz	76	Zielona Góra	0862	Zielona Góra	086201	51.9427	15.5117	
+PL	59-500	Złotoryja	Lower Silesia	72	Złotoryja County	0226	Złotoryja	022602	51.123	15.916	
+PL	77-400	Złotów	Greater Poland	86	Powiat złotowski	3031	Złotów	303101	53.3658	17.0363	
+PL	26-700	Zwoleń	Mazovia	78	Powiat zwoleński	1436	Gmina Zwoleń	143605	51.3554	21.5818	
+PL	68-100	Żagań	Lubusz	76	Powiat żagański	0810	Żagań	081002	51.6161	15.3162	
+PL	68-200	Żary	Lubusz	76	Powiat żarski	0811	Żary	081102	51.6316	15.1428	
+PL	88-400	Żnin	Kujawsko-Pomorskie	73	Powiat żniński	0419	Gmina Żnin	041906	52.8496	17.7311	
+PL	44-240	Żory	Silesia	83	Żory	2479	Żory	247901	50.0407	18.6811	
+PL	09-300	Żuromin	Mazovia	78	Powiat żuromiński	1437	Gmina Żuromin	143706	53.0666	19.9101	
+PL	96-300	Żyrardów	Mazovia	78	Powiat żyrardowski	1438	Żyrardów	143801	52.057	20.443	
+PL	34-300	Żywiec	Silesia	83	Powiat żywiecki	2417	Żywiec	241701	49.687	19.2087	
+PL	16-070	Choroszcz	Podlasie	81	Powiat białostocki	2002	Choroszcz	200201	53.1449	22.9895	
+PL	16-020	Czarna Białostocka	Podlasie	81	Powiat białostocki	2002	Gmina Czarna Białostocka	200202	53.3044	23.2833	
+PL	16-030	Supraśl	Podlasie	81	Powiat białostocki	2002	Supraśl	200209	53.2063	23.3346	
+PL	16-010	Wasilków	Podlasie	81	Powiat białostocki	2002	Gmina Wasilków	200213	53.2038	23.2041 
+PL	11-300	Biskupiec	Warmia-Masuria	85	Powiat olsztyński	2814	Biskupiec	281402	53.8648	20.9526	
+PL	16-120	Krynki	Podlasie	81	Powiat sokólski	2011	Gmina Krynki	201104	53.2638	23.7748	
+PL	76-270	Ustka	Pomerania	82	Powiat słupski	2212	Ustka	221201	54.5792	16.86	
