@@ -1,5 +1,5 @@
 # Harvard-CS50-2017-pset8
-a website with a map of current news from Poland
+A website with a map of current news from Poland
 
 Done according to: https://docs.cs50.net/problems/mashup/mashup.html
 
