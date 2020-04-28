@@ -14,11 +14,11 @@
         <link href="{{ url_for('static', filename='styles.css') }}" rel="stylesheet"/>
 
         <!-- https://developers.google.com/maps/documentation/javascript/ -->
-        <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ key | urlencode }}&callback=initMap"
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ key | urlencode }}"
         type="text/javascript"></script>
 
         <!-- http://jquery.com/ -->
-        <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
         <!-- http://getbootstrap.com/ -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -29,12 +29,13 @@
         <!-- http://handlebarsjs.com/ -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
 
-        <!-- http://stewartjpark.com/Flask-JSGlue/ -->
-        {{ JSGlue.include() }}
+        <script type=text/javascript>
+            $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+        </script>
 
         <!-- app's own JavaScript -->
         <script src="{{ url_for('static', filename='scripts.js') }}"></script>
-        
+
         <title>Mashup Poland</title>
 
     </head>

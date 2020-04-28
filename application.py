@@ -1,17 +1,13 @@
 import os
 import re
 from flask import Flask, jsonify, render_template, request, url_for
-from flask_jsglue import JSGlue
+import json
 
 import sqlite3
 from helpers import lookup
 
-from dotenv import load_dotenv
-load_dotenv()
-
 # configure application
 app = Flask(__name__)
-JSGlue(app)
 
 # ensure responses aren't cached
 if app.config["DEBUG"]:
@@ -37,7 +33,7 @@ def articles():
 
     if not geo:
         raise RuntimeError("missing geo")
-    
+
     articles = lookup(geo)
         
     if len(articles) > 5:
@@ -55,7 +51,7 @@ def search():
 
     cities = db.execute("SELECT * FROM places WHERE postal_code LIKE :q OR place LIKE :q OR voivodeship LIKE :q", dict(q=q))
     
-    return jsonify(list(cities))
+    return jsonify(cities.fetchone())
     
 @app.route("/update")
 def update():
@@ -104,7 +100,7 @@ def update():
             dict(sw_lat=sw_lat, ne_lat=ne_lat, sw_lng=sw_lng, ne_lng=ne_lng))
 
     # output places as JSON
-    return jsonify(list(rows))
+    return jsonify(rows.fetchall())
 
 if __name__ == "__main__":
-    app.run(port=8080)
+    app.run(port=8001)
