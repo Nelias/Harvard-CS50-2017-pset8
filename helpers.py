@@ -1,5 +1,5 @@
 import feedparser
-import urllib.parse
+from urlparse import urlparse
 
 def lookup(geo):
     """Looks up articles for geo."""
@@ -9,7 +9,7 @@ def lookup(geo):
         return lookup.cache[geo]
 
     # get feed from Google
-    feed = feedparser.parse("https://news.google.com/rss/search/section/q/\"{}\"?hl=pl&gl=PL&ned=pl_pl".format(urllib.parse.quote(geo, safe="")))
+    feed = feedparser.parse("https://news.google.com/rss/search/section/q/\"{}\"?hl=pl&gl=PL&ned=pl_pl".format(urlparse.quote(geo, safe="")))
 
     # cache results
     lookup.cache[geo] = [{"link": item["link"], "title": item["title"]} for item in feed["items"]]

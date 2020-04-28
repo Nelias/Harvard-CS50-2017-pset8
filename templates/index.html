@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<!-- prettier-ignore -->
 <html>
     <head>
 
@@ -14,7 +14,8 @@
         <link href="{{ url_for('static', filename='styles.css') }}" rel="stylesheet"/>
 
         <!-- https://developers.google.com/maps/documentation/javascript/ -->
-        <script src="https://maps.googleapis.com/maps/api/js?key={{ key | urlencode }}&v=3.exp"></script>
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ key | urlencode }}&callback=initMap"
+        type="text/javascript"></script>
 
         <!-- http://jquery.com/ -->
         <script src="https://code.jquery.com/jquery-latest.min.js"></script>
@@ -48,7 +49,7 @@
             <!-- http://getbootstrap.com/css/#forms -->
             <form id="form">
                 <div class="form-group">
-                    <label class="sr-only" for="q">City, State, Postal Code</label>
+                    <label class="sr-only" for="q">City, Voivodeship, Postal Code</label>
                     <input class="form-control" id="q" placeholder="City, Voivodeship, Postal Code" type="text"/>
                 </div>
             </form>

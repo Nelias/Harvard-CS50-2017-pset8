@@ -3,8 +3,11 @@ import re
 from flask import Flask, jsonify, render_template, request, url_for
 from flask_jsglue import JSGlue
 
-from cs50 import SQL
+import sqlite3
 from helpers import lookup
+
+from dotenv import load_dotenv
+load_dotenv()
 
 # configure application
 app = Flask(__name__)
@@ -19,14 +22,11 @@ if app.config["DEBUG"]:
         response.headers["Pragma"] = "no-cache"
         return response
 
-# configure CS50 Library to use SQLite database
-db = SQL("sqlite:///mashup.db")
-
 @app.route("/")
 def index():
     """Render map."""
-    if not os.environ.get("API_KEY"):
-        raise RuntimeError("API_KEY not set")
+    # if not os.environ.get("API_KEY"):
+    #     raise RuntimeError("API_KEY not set")
     return render_template("index.html", key=os.environ.get("API_KEY"))
 
 @app.route("/articles")
@@ -48,14 +48,21 @@ def articles():
 @app.route("/search")
 def search():
     """Search for places that match query."""
+    database_connection = sqlite3.connect('./database/mashup.db')
+    db = database_connection.cursor()
     
     q = request.args.get("q") + "%"
+
+    cities = db.execute("SELECT * FROM places WHERE postal_code LIKE :q OR place LIKE :q OR voivodeship LIKE :q", dict(q=q))
     
-    return jsonify(db.execute("SELECT * FROM places WHERE postal_code LIKE :q OR place LIKE :q OR voivodeship LIKE :q", q=q))
+    return jsonify(list(cities))
     
 @app.route("/update")
 def update():
     """Find up to 10 places within view."""
+
+    database_connection = sqlite3.connect('./database/mashup.db')
+    db = database_connection.cursor()
 
     # ensure parameters are present
     if not request.args.get("sw"):
@@ -84,7 +91,7 @@ def update():
             GROUP BY country_code, place, voivodeship
             ORDER BY RANDOM()
             LIMIT 10""",
-            sw_lat=sw_lat, ne_lat=ne_lat, sw_lng=sw_lng, ne_lng=ne_lng)
+            dict(sw_lat=sw_lat, ne_lat=ne_lat, sw_lng=sw_lng, ne_lng=ne_lng))
 
     else:
 
@@ -94,7 +101,10 @@ def update():
             GROUP BY country_code, place, voivodeship
             ORDER BY RANDOM()
             LIMIT 10""",
-            sw_lat=sw_lat, ne_lat=ne_lat, sw_lng=sw_lng, ne_lng=ne_lng)
+            dict(sw_lat=sw_lat, ne_lat=ne_lat, sw_lng=sw_lng, ne_lng=ne_lng))
 
     # output places as JSON
-    return jsonify(rows)
+    return jsonify(list(rows))
+
+if __name__ == "__main__":
+    app.run(port=8080)
