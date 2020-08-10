@@ -1,9 +1,9 @@
 # Harvard-CS50-2017-pset8
 
 <div>
-<img src="https://lh3.googleusercontent.com/proxy/kvBTko8aXHUsuESPGIW96SxPTqCvOfnRMlqfkud_DM57wjdj9NzD5J4F_njmNtOOjviIMLFWId0cLnA6OdMmkHUa-5AMBACnmwvKNac_-UX82FZgo5DRSUPfyVw" width="70" height="70">
 <img src="https://static.javatpoint.com/tutorial/flask/images/flask-tutorial.png" width="70" height="70">
-<img src="https://lh3.googleusercontent.com/proxy/50jHTaU6Bo0tb6TXscOfdrCF6j3B7tkSmiFQdPDyQXDi7LsqOZsLcqUI3fVsupwZelDH0NgUmeQnseRABoRZ9Tf5qLyoPXDvuSx6" width="70" height="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/533px-Google_Maps_Logo_2020.svg.png" width="70" height="70">
+<img src="https://i.dlpng.com/static/png/510838_thumb.png" width="70" height="70">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png" width="70" height="70">
 </div>
 
